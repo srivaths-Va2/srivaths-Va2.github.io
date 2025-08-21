@@ -22,14 +22,14 @@ repository               : "srivaths-Va2/srivaths-Va2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "srivaths_photo.png"
+  name             : "Srivaths Ramasubramanian" # This is the name that appears in the sidebar
+  pronouns         : "He/Him"            # example: "she/her"  
+  bio              : "I am a PhD student at the University of California-Irvine. My research interests include Hardware Acceleration, FPGA based System Design, Reconfigurable Computing, FPGA Architectures and Embedded Systems"
+  location         : "Irvine, CA"
+  employer         : "University of California-Irvine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ramasus1@uci.edu" 
 
   # Academic websites
   academia         : # URL
