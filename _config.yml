@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Srivaths Ramasubramanian"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Srivaths Ramasubramanian's Home"
 title_separator          : "-"
 name                     : &name "Srivaths Ramasubramanian" # This is the name that appears in the title tag and the sidebar
 description              : &description "personal description"
